@@ -1,0 +1,6 @@
+C:\Users\acer\Desktop\Harun\ProductInfoApp\ProductInfoApp\bin\Debug\ProductInfoApp.exe.config
+C:\Users\acer\Desktop\Harun\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Harun\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.Form1.resources
+C:\Users\acer\Desktop\Harun\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.Properties.Resources.resources
+C:\Users\acer\Desktop\Harun\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\Harun\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.ProductUI.resources
